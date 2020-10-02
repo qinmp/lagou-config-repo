@@ -1,0 +1,6 @@
+spring.mail.username=18684048891@163.com
+spring.mail.password=JXGAUYPPUJYFKKYC
+spring.mail.host=smtp.163.com
+spring.mail.properties.mail.smtp.starttls.enable=true
+spring.mail.properties.mail.smtp.starttls.required=true
+spring.mail.properties.mail.smtp.auth=true
